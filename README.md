@@ -32,8 +32,9 @@
 ### ☕ Support my work
 If you find my projects useful or they helped you solve a 2-pixel misalignment problem – fuel my lab with a coffee!
 
-<a href='https://ko-fi.com/A0A81R5DP5' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/widgets/v3/kofi_button_dark.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
+  <a href="https://ko-fi.com/adrianczarnecki" target="_blank">
+    <img height="36" style="border:0px;height:36px;" src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" border="0" alt="Buy Me a Coffee at ko-fi.com" />
+  </a>
 ---
 <div align="center">
   <b>Pixel-Perfect UI | Separation of Concerns | Clean Code</b>
