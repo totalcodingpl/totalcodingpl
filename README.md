@@ -1,7 +1,7 @@
 # ⚡ Welcome to my lab. I'm Adrian.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/totalcodingpl/totalcodingpl/main/assets/banner.jpg" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/totalcodingpl/totalcodingpl/main/assets/banner_2.png" alt="Banner" width="100%">
 </div>
 
 <br>
